@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Red Background Rectangle -->
+  <rect width="512" height="512" fill="#FF0000"/>
+  
+  <!-- sijosam Text -->
+  <text 
+    x="256" 
+    y="290" 
+    font-family="Arial, sans-serif" 
+    font-size="100" 
+    font-weight="bold" 
+    fill="white" 
+    text-anchor="middle" 
+    dominant-baseline="middle">
+    sijosam
+  </text>
+</svg>

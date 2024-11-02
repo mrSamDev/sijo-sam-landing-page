@@ -13,7 +13,7 @@ const AnimatedDownloadButton = () => {
     link.href = fileUrl;
 
     // Set the file name for download
-    link.download = "YourName_Resume.pdf"; // Change this to your desired filename
+    link.download = "SijoSam_Resume.pdf"; // Change this to your desired filename
 
     // Append to body, click, and remove
     document.body.appendChild(link);
